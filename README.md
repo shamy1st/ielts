@@ -17,6 +17,7 @@
 
 ### [Video 02](https://www.youtube.com/watch?v=OualsHB1FqE&list=PLaNNx1k0ao1v8I2C8DAxXOayC3dG00xtj&index=4)
 
+* write no more than three words
 * 
 
 ## Reading
