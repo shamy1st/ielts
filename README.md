@@ -2,6 +2,23 @@
 
 ## Listening
 
+### [Video 01](https://www.youtube.com/watch?v=yTOqXLWpUmQ&list=PLaNNx1k0ao1v8I2C8DAxXOayC3dG00xtj&index=3)
+
+* Part 1 of the test
+* In British English
+* 30 min + 10 min transfer time (from one sheet of paper to another)
+* played only one time
+* extra time at the end of each section to check your answers
+* 4 sections, 10 questions per section
+ * section 1 : 2 speakers (conversation or transaction)
+ * section 2 : 1 speaker (general topic)
+ * section 3 : 2-4 speakers (conversation in an academic situation)
+ * section 4 : 1 speaker (academic lecture)
+
+### [Video 02](https://www.youtube.com/watch?v=OualsHB1FqE&list=PLaNNx1k0ao1v8I2C8DAxXOayC3dG00xtj&index=4)
+
+* 
+
 ## Reading
 
 ### [Video 01](https://www.youtube.com/watch?v=As4e8dtqBrk&list=PLaNNx1k0ao1v8I2C8DAxXOayC3dG00xtj&index=11)
