@@ -39,7 +39,16 @@
 
 ### [Video 03](https://www.youtube.com/watch?v=bbDliT5EN-w&list=PLaNNx1k0ao1v8I2C8DAxXOayC3dG00xtj&index=12)
 
-* 
+* learn synonyms (different words of the same meaning) (example: intelligent and smart)
+* pay attention to negative words (hardly, never, rarely, seldom)
+* pay attention to frequency words (always, often, sometimes, never)
+* stick with first answer
+* questions often follow section order
+* know what topic sentences are
+* practice each question type
+* practice outside of home
+* be careful word in question / reading (not always correct)
+* scan backwards for practice
 
 ## Writing
 
