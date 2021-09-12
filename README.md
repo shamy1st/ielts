@@ -10,10 +10,10 @@
 * played only one time
 * extra time at the end of each section to check your answers
 * 4 sections, 10 questions per section
- * section 1 : 2 speakers (conversation or transaction)
- * section 2 : 1 speaker (general topic)
- * section 3 : 2-4 speakers (conversation in an academic situation)
- * section 4 : 1 speaker (academic lecture)
+  * section 1 : 2 speakers (conversation or transaction)
+  * section 2 : 1 speaker (general topic)
+  * section 3 : 2-4 speakers (conversation in an academic situation)
+  * section 4 : 1 speaker (academic lecture)
 
 ### [Video 02](https://www.youtube.com/watch?v=OualsHB1FqE&list=PLaNNx1k0ao1v8I2C8DAxXOayC3dG00xtj&index=4)
 
@@ -30,25 +30,25 @@
 * social, work, academic
 * from easy to hard (the first section is the easiest part)
 * 40 questions
-  * multiple choise
-  * short answer
-  * sentence completion
-  * table, chart, diagram
-  * summery completion
-  * paragraph headings
-  * locating information
-  * writer's view or claims
-  * classification
-  * matching
+   * multiple choise
+   * short answer
+   * sentence completion
+   * table, chart, diagram
+   * summery completion
+   * paragraph headings
+   * locating information
+   * writer's view or claims
+   * classification
+   * matching
 
 ### [Video 02](https://www.youtube.com/watch?v=4PDgVEhfKso&list=PLaNNx1k0ao1v8I2C8DAxXOayC3dG00xtj&index=12)
 
 * don't read slowly - skim - main idea - scan - detail
 * don't spend too much time on an answer
 * spend less time on earlier questions
-  * section 01 : 17 min
-  * section 02 : 20 min
-  * section 03 : 23 min
+   * section 01 : 17 min
+   * section 02 : 20 min
+   * section 03 : 23 min
 * enough time to transfer answers
 * three words or less (example: the tomb of pharaoh -> the pharaoh's tomb)
 * spelling
@@ -73,11 +73,11 @@
 ### Essay
 
 * Introduction: ...
- * What? When? Where? Who? How?
- * Why? (Hook)
+  * What? When? Where? Who? How?
+  * Why? (Hook)
 * Body
- * To begin with, ... (Advantages)
- * However, ... (Disadvantages)
+  * To begin with, ... (Advantages)
+  * However, ... (Disadvantages)
 * In conclusion, ...
 
 ### Letter
