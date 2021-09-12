@@ -72,7 +72,7 @@
 
 ### Essay
 
-* Introduction: ...
+* Introduction
   * What? When? Where? Who? How?
   * Why? (Hook)
 * Body
