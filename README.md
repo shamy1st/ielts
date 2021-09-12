@@ -70,6 +70,20 @@
 
 ## Writing
 
+### Essay
+
+* Introduction: ...
+ * What? When? Where? Who? How?
+ * Why? (Hook)
+* Body
+ * To begin with, ... (Advantages)
+ * However, ... (Disadvantages)
+* In conclusion, ...
+
+### Letter
+
+
+
 ## Speaking
 
 ## Ref
