@@ -72,13 +72,34 @@
 
 ### Essay
 
-* Introduction
-  * What? When? Where? Who? How?
-  * Why? (Hook)
-* Body
-  * To begin with, ... (Advantages)
-  * However, ... (Disadvantages)
-* In conclusion, ...
+#### One-Sided
+
+```text
+Introduction
+* What? When? Where? Who? How?
+* Why? (Hook)
+Body
+* To begin with, ... (1 Reason)
+* Another, ... (2 Reason)
+* Finally, ... (3 Reason)
+In conclusion, ...
+* Importance
+* Opinion
+```
+
+#### Two-Sided
+
+```text
+Introduction
+* What? When? Where? Who? How?
+* Why? (Hook)
+Body
+* To begin with, ... (Advantages)
+* However, ... (Disadvantages)
+In conclusion, ...
+* Importance
+* Opinion
+```
 
 ### Letter
 
