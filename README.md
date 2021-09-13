@@ -109,11 +109,22 @@ In conclusion, ...
 
 #### Asking for Information (Formal)
 
+* Template 80 words, required 150 words
+
 ```text
 Dear Sir/Madam,
 
+I am writing to you with regard to ... (Goal)
+... I would appreciate it if you could give me some information about ...
+
+To begin with, I would like to know ...(1 Question)... I would also be interested in knowing ...(2 Question)
+
+In addition, I would be grateful if you could inform me ...(3 Question)... Finally, I would like to know if there is a ...(4 Question)
+
+Thanking you in advance for your assistance. I look forward to hearing from you at your earliest convenience.
+
 Yours faithfully,
-Ahmed
+Ahmed Elshamy
 ```
 
 #### Giving Information (Formal)
