@@ -130,10 +130,20 @@ Ahmed Elshamy
 #### Giving Information (Formal)
 
 ```text
-Dear Sir/Madam,
+Dear Miss Cook,
 
-Yours faithfully,
-Ahmed
+I would be more than happy to give you some additional information about the ...
+
+To begin with, ...
+
+Regarding the ...
+
+As for the ...
+
+I hope this information is of use to you. If you need any further information, do not hesitate to contact me.
+
+Yours sincerely,
+Ahmed Elshamy
 ```
 
 #### Complaint (Formal)
