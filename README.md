@@ -78,10 +78,12 @@
 Introduction
 * What? When? Where? Who? How?
 * Why? (Hook)
+
 Body
 * To begin with, ... (1 Reason)
 * Another, ... (2 Reason)
 * Finally, ... (3 Reason)
+
 In conclusion, ...
 * Importance
 * Opinion
@@ -93,9 +95,11 @@ In conclusion, ...
 Introduction
 * What? When? Where? Who? How?
 * Why? (Hook)
+
 Body
 * To begin with, ... (Advantages)
 * However, ... (Disadvantages)
+
 In conclusion, ...
 * Importance
 * Opinion
