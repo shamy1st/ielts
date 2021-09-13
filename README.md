@@ -190,7 +190,6 @@ Hi Robert,
          Also, ...
          Another thing I suggest you do is ...
          Well, I hope I've been of some help. Keep in touch.
-
                                                                       Love,
                                                                       Ahmed
 ```
