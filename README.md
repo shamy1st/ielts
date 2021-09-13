@@ -166,10 +166,19 @@ Ahmed
 #### Application (Formal)
 
 ```text
-Dear Sir/Madam,
+Dear Sir or Madam,
+
+I am writing with regard to the position ...
+
+I am ... (Experience)
+
+In addition, ... (Interests)
+
+I hope that my application will be taken into consideration. I have enclosed a resume and a reference from my previous employer.
+I look forward to your reply.
 
 Yours faithfully,
-Ahmed
+Ahmed Elshamy
 ```
 
 #### Giving Advice (Informal)
