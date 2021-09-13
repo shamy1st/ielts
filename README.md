@@ -151,6 +151,14 @@ Ahmed Elshamy
 ```text
 Dear Sir/Madam,
 
+I am writing to complain about a ...
+
+To begin with, ...
+
+Most importantly, ...
+
+Considering all the above, I wish to ... I look forward to hearing from you soon.
+
 Yours faithfully,
 Ahmed
 ```
