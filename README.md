@@ -107,29 +107,50 @@ In conclusion, ...
 
 ### Letter
 
-#### Asking for Information
+#### Asking for Information (Formal)
 
 ```text
+Dear Sir/Madam,
 
-hello world
-
+Yours faithfully,
+Ahmed
 ```
 
-#### Giving Information
+#### Giving Information (Formal)
 
+```text
+Dear Sir/Madam,
 
+Yours faithfully,
+Ahmed
+```
 
-#### Complaint
+#### Complaint (Formal)
 
+```text
+Dear Sir/Madam,
 
+Yours faithfully,
+Ahmed
+```
 
-#### Application
+#### Application (Formal)
 
+```text
+Dear Sir/Madam,
 
+Yours faithfully,
+Ahmed
+```
 
-#### Giving Advice
+#### Giving Advice (Informal)
 
+```text
+Hi Robert,
 
+Love,
+Ahmed
+```
 
 ## Speaking
 
