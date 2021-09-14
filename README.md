@@ -109,8 +109,6 @@ In conclusion, ...
 
 #### Asking for Information (Formal)
 
-* Template 80 words, required 150 words
-
 ```text
 Dear Sir/Madam,
 
@@ -160,7 +158,7 @@ Most importantly, ...
 Considering all the above, I wish to ... I look forward to hearing from you soon.
 
 Yours faithfully,
-Ahmed
+Ahmed Elshamy
 ```
 
 #### Application (Formal)
