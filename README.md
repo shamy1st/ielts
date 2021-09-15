@@ -205,14 +205,14 @@ Hi Robert,
 
 ### [Video 01](https://www.youtube.com/watch?v=sRFEKvsw-vs&list=PLaNNx1k0ao1v8I2C8DAxXOayC3dG00xtj&index=6)
 
-* 3 sections
 * section 1
-  * introduction + 2 topics
-  * topics: Hometown, Neighborhood, Work, Study, Family, Friends, Hobbies, Food, Sports
+* introduction + 2 topics
+* topics: Hometown, Neighborhood, Work, Study, Family, Friends, Hobbies, Food, Sports
 * Pronunciation, Fluency, Vocabulary, Grammar
 
 ### [Video 02](https://www.youtube.com/watch?v=XyDrz6YAwvw&list=PLaNNx1k0ao1v8I2C8DAxXOayC3dG00xtj&index=7)
 
+* section 2
 * look at question card
 * talk for 2 min
 * topics: special day, sports, people influence you, book, music, TV program
@@ -226,7 +226,10 @@ Hi Robert,
 
 ### [Video 03](https://www.youtube.com/watch?v=TyYHs1-6Vls&list=PLaNNx1k0ao1v8I2C8DAxXOayC3dG00xtj&index=8)
 
-
+* section 3
+* 5 min interview
+* predict, analyze, compare, give opinion
+* topics: Technology, Education, Environment, TV Influence, Leisure Activities, Shopping, Sports, Transportation
 
 ## Ref
 * https://www.britishcouncil.org.eg/en/exam/ielts/book-test
